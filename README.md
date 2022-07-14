@@ -136,7 +136,7 @@ improved to 1.63 for both SVD RMSE and accuracy score.
 
 # Machine Learning (Unsupervised) Data Pipeline
 
-1.	1.	Data Preparation (Data Cleaning and Feature Engineering)
+1.	Data Preparation (Data Cleaning and Feature Engineering)
 
 2.	Exploratory Data Analysis
 
